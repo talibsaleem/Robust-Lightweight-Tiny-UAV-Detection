@@ -1,0 +1,30 @@
+Title,Publication Date,Source Link
+A Lightweight Drone Detection Method Integrated into a Linear Attention Mechanism Based on Improved YOLOv11,19 February 2025,https://doi.org/10.3390/rs17040705
+DCM-DETR: A Lightweight Framework for Robust Infrared Small UAV Detection,24 February 2026,https://doi.org/10.3390/sym18030397
+DroneTFS-SemNet: A Semantic Learning Framework for Multi-Task Recognition of Drones,19 May 2026,https://doi.org/10.3390/electronics15102182
+Research on Lightweight Tracking of Small-Sized UAVs Based on the Improved YOLOv8N-Drone Architecture,5 August 2025,https://doi.org/10.3390/drones9080551
+A Lightweight Feature Enhancement Model for UAV Detection in Real-World Scenarios,18 December 2025,https://doi.org/10.3390/drones9120874
+A Small Target Detection Algorithm for UAV Aerial Photography Based on Multi-path Fusion,May 2026,https://www.iaeng.org/IJCS/issues_v53/issue_5/IJCS_53_5_21.pdf
+EGD-YOLO: A Lightweight Multimodal Framework for Robust Drone-Bird Discrimination via Ghost-Enhanced YOLOv8n and EMA Attention under Adverse Conditions,12 October 2025,https://arxiv.org/abs/2510.10765v1
+LDDm-YOLO: A Distilled YOLOv8 Model for Efficient Real-Time UAV Detection on Edge Devices,4 March 2026,https://doi.org/10.3390/engproc2026124068
+Lightweight UAV Detection Method Based on IASL-YOLO,23 April 2025,https://doi.org/10.3390/drones9050325
+UDRT-DETR: a small UAV detection method based on infrared imaging and RT-DETR,March 2026,https://doi.org/10.1364/AO.580897
+Vision-based UAV Detection Models for Small-Edge Devices,May 2025,ceur-ws.org/Vol-4035/Paper7.pdf
+YOLO-Drone: An Optimized YOLOv8 Network for Tiny UAV Object Detection,30 August 2023,https://doi.org/10.3390/electronics12173664
+Improving Small Drone Detection Through Multi-Scale Processing and Data Augmentation,2025,https://arxiv.org/abs/2504.19347
+Deep Convolutional Neural Network-based Fusion of RGB and IR Images in Marine Environment,2019,https://ieeexplore.ieee.org/document/8917332
+Infrared and Visible Camera Integration for Detection and Tracking of Small UAVs: Systematic Evaluation,2024,https://www.mdpi.com/2504-446X/8/11/650
+EDGS-YOLOv8: An Improved YOLOv8 Lightweight UAV Detection Model,2024,https://www.mdpi.com/2504-446X/8/7/337
+MMAUD: A Comprehensive Multi-Modal Anti-UAV Dataset for Modern Miniature Drone Threats,2024,https://arxiv.org/abs/2402.03706
+Unmanned Aerial Vehicle Target Detection Algorithm Based on Infrared Visible Light Feature Level Fusion,2024,https://ieeexplore.ieee.org/document/10653241
+TTFNet: A Two-Stream Transformer Network for UAV Detection in Fusion Images,2023,https://ieeexplore.ieee.org/document/10228942
+Multimodal Fusion for UAV Detection using RGB and IR Imagery with Transformers,2023,https://www.mdpi.com/1424-8220/23/4/2297
+Cross-Modal Attentive Feature Fusion for Detection of Small UAVs in RGB-Thermal Data,2023,https://arxiv.org/abs/2303.14321
+Anti-UAV: A Large-Scale Benchmark for UAV Tracking and Detection,2021,https://ieeexplore.ieee.org/document/9466290
+YOLOv7-UAV: A Real-Time Detection Method for Drones in Complex Backgrounds,2023,https://www.mdpi.com/1424-8220/23/18/7761
+SODA: A Large-Scale Benchmark for Small Object Detection,2024,https://arxiv.org/abs/2404.08634
+Detection of Drones Using Deep Learning and Acoustic Analysis,2023,https://www.mdpi.com/2504-446X/7/8/432
+PP-YOLOE: An Evolved Version of YOLO,2022,https://arxiv.org/abs/2203.16250
+MUSD: A Multi-Sensor UAV Dataset for Robust Drone Detection and Tracking,2024,https://arxiv.org/abs/2405.09709
+AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Object Detection,2020,https://ieeexplore.ieee.org/document/9294484
+The Drone vs. Bird Detection Challenge and Dataset,2021,https://wisionlab.cs.wisc.edu/project/bird-drone/
